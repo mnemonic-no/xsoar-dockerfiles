@@ -18,11 +18,11 @@
     "default": {
         "attrs": {
             "hashes": [
-                "sha256:2d27e3784d7a565d36ab851fe94887c5eccd6a463168875832a1be79c82828b4",
-                "sha256:626ba8234211db98e869df76230a137c4c40a12d72445c45d5f5b716f076e2fd"
+                "sha256:29adc2665447e5191d0e7c568fde78b21f9672d344281d0c6e1ab085429b22b6",
+                "sha256:86efa402f67bf2df34f51a335487cf46b1ec130d02b8d39fd248abfd30da551c"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
-            "version": "==21.4.0"
+            "markers": "python_version >= '3.5'",
+            "version": "==22.1.0"
         },
         "blis": {
             "hashes": [
@@ -1225,11 +1225,11 @@
         },
         "tifffile": {
             "hashes": [
-                "sha256:52b4c02040d00c1811e26c0f6abd41e77e2d57559b3657ff3e873955f74f5c57",
-                "sha256:b03147a15862b7c1d90d47435197f149bef7a52c25ad67cf1f9b465faa71b8d2"
+                "sha256:61e3638e35156751dbc3cdbd0e4cf1166b90597d5d1972d03945a96570f1ad81",
+                "sha256:a3bc9d5dcf2a89b9340ec3a623912da30b53b94877c1ba1f5bdc39d9e401fefb"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2022.5.4"
+            "version": "==2022.7.28"
         },
         "tokenizers": {
             "hashes": [
@@ -1279,11 +1279,11 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:65ee4ae9abdeca8fe3a9e351256345e3c4db2a6a68accd5d6a141cfff6192751",
-                "sha256:d284eaf60b10fee45b24688423b5f7ba2d194f8c2dadf8df76cd58c1a9d08b52"
+                "sha256:479ee0e266ac2ac3e28c94b0697ceea2be0ea4aa1a03194930900786217bbcd8",
+                "sha256:e2eb3576aeee931ed636286ff2942f6d9ae75e0219030493479e744a4aa34653"
             ],
             "index": "pypi",
-            "version": "==4.20.1"
+            "version": "==4.21.0"
         },
         "typer": {
             "hashes": [
@@ -1311,10 +1311,10 @@
         },
         "wasabi": {
             "hashes": [
-                "sha256:62d26d6f095779e08f05fbe598d0863c3c3119ea5c478e6b70b80667d84f423c",
-                "sha256:c386fd8e966e8d5273755e4b9253814ed8f073331330561f1cfb296fa326e91a"
+                "sha256:c8e372781be19272942382b14d99314d175518d7822057cb7a97010c4259d249",
+                "sha256:fe862cc24034fbc9f04717cd312ab884f71f51a8ecabebc3449b751c2a649d83"
             ],
-            "version": "==0.10.0"
+            "version": "==0.10.1"
         }
     },
     "develop": {}
