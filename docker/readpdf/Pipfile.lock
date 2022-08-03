@@ -126,8 +126,10 @@
                 "sha256:7c51ce56f8684f060d2f1f0b980a4f6741e0d9274a4bc9a35a455daa649d7303",
                 "sha256:880e431f636540bf37da5bc877bc4d79f0a63976bb6494c8fd19e6dbd2e941d2",
                 "sha256:9627c43dc8c9b29f02a8636d5be848c015d5ace5b9ae9cb984bbcea9271f3562",
+                "sha256:97d642c49084b36b9cdccfbeb897efd80785d806579ff539ff0fa62daeeabc44",
                 "sha256:98d7efe1137ccd8867927b4893c2a33ec114b13dba5b6c7ad4b60bbcebdd5ae8",
                 "sha256:9a25ac002712f6daf8a2c60dabb56145b22552afbecfc231e5fd8f20a4b71428",
+                "sha256:a4cbb2e87d3dd297570872aedfb2493ad21d1075aba1f661db483c36ff23dc32",
                 "sha256:b0fd70a36e50be91ce753f9f36f7026326ed8fb9f32d96507002d25ef7c750a3",
                 "sha256:be6c7c548641682134bd6c188ed2899ec5f9139fa4450e9ee35a737a5dac9854",
                 "sha256:cd251ed037327e5af9ac5eae14dabbc943d9479cdd57558541f9b5bc434734e1",
@@ -218,11 +220,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:488c2a3e581e39322f55cdb09e74dfe91402208383cc073224ed5d880e3f4b1b",
-                "sha256:ad40bf56bad7ee9c8adb1de6a4a160a8f2c1b442369ad817584106fb5bde64eb"
+                "sha256:6cf18ca7d0f77e1306d48fcd0a57390616ec6545796b5eb325a20943a5501d18",
+                "sha256:e6011f1cc9a9a6fb6dcc7e43e0af5d547569c76290a7e387c62dd6631b745560"
             ],
             "index": "pypi",
-            "version": "==2.8.1"
+            "version": "==2.9.0"
         }
     },
     "develop": {}
