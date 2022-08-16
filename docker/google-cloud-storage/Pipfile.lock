@@ -69,11 +69,11 @@
         },
         "google-cloud-pubsub": {
             "hashes": [
-                "sha256:b7f577621f991b513034c50f3314ef66838701b3b0dd1fca0d5e9a0e82f9f801",
-                "sha256:c8d098ebd208d00c8f3bb55eefecd8553e7391d59700426a97d35125f0dcb248"
+                "sha256:a2ba319d66c3dc9355f8f46d81a8c78fedb4222a59fc1af6132e522ce7764753",
+                "sha256:d64b1baa08632b087422f2f74ac35cc15ad0b4927cd991c90e9feedf9b28ad28"
             ],
             "index": "pypi",
-            "version": "==1.7.0"
+            "version": "==2.13.6"
         },
         "google-cloud-storage": {
             "hashes": [
@@ -205,6 +205,7 @@
                 "sha256:f89de64d9eb3478b188859214752db50c91a749479011abd99e248550371375f",
                 "sha256:fcd5d932842df503eb0bf60f9cc35e6fe732b51f499e78b45234e0be41b0018d"
             ],
+            "markers": "python_version >= '3.6'",
             "version": "==1.47.0"
         },
         "grpcio-status": {
@@ -212,6 +213,7 @@
                 "sha256:2154fdb8aad20452488712be6879657b508115ca06139fde8897ea8e9bc79367",
                 "sha256:c9ce3213e84c6fd8801c31aca3ea4a6b3453eaa40b93a6c0a23ea8999808fa00"
             ],
+            "markers": "python_version >= '3.6'",
             "version": "==1.47.0"
         },
         "idna": {
@@ -221,6 +223,14 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==3.3"
+        },
+        "proto-plus": {
+            "hashes": [
+                "sha256:a27192d8cdc54e044f137b4c9053c9108cf5c065b46d067f1bcd389a911faf5b",
+                "sha256:c2e6693fdf68c405a6428226915a8625d21d0513793598ae3287a1210478d8ec"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==1.22.0"
         },
         "protobuf": {
             "hashes": [
