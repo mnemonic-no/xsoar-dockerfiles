@@ -190,7 +190,7 @@
                 "sha256:2857e29ff0d34db842cd7ca3230549d1a697f96ee6d3fb071cfa6c7393832597",
                 "sha256:6881edbebdb17b39b4eaaa821b438bf6eddffb4468cf344f09f89def34a8b1df"
             ],
-            "markers": "python_version >= '3'",
+            "markers": "python_version >= '3.5'",
             "version": "==2.0.12"
         },
         "circleci": {
@@ -391,11 +391,11 @@
         },
         "imap-tools": {
             "hashes": [
-                "sha256:81e0069d81483aecc3ca46e57f5c41ffc39f1ba0041e416591d829f99f682623",
-                "sha256:d32f3e165af9e56542c1a5beb2866537265ef4832c8bd2eb25982ee8ac70ea4f"
+                "sha256:4fe4c07c4cc4aab83492d126e221c39118ff530268149b721296fc0fb87de3c2",
+                "sha256:56942853be2125d509365b84eacf0f3a87ae58ea8f82bca7a6943634a60cfb60"
             ],
             "index": "pypi",
-            "version": "==0.55.0"
+            "version": "==0.56.0"
         },
         "imapclient": {
             "hashes": [
