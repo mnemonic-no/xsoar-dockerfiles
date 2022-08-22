@@ -26,11 +26,11 @@
         },
         "charset-normalizer": {
             "hashes": [
-                "sha256:5189b6f22b01957427f35b6a08d9a0bc45b46d3788ef5a92e978433c7a35f8a5",
-                "sha256:575e708016ff3a5e3681541cb9d79312c416835686d054a23accb873b254f413"
+                "sha256:5a3d016c7c547f69d6f81fb0db9449ce888b418b5b9952cc5e6e66843e9dd845",
+                "sha256:83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2.1.0"
+            "version": "==2.1.1"
         },
         "defusedxml": {
             "hashes": [
@@ -50,11 +50,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:2a5b21911c7f58a22d0e48d360d17eb0d872e86f4d7d5d274398c2201c187fc9",
-                "sha256:62a6e52779a5f09e13c5c3de1ae8983fe56ca5bf249ec9f2b6da009c09961ef0"
+                "sha256:0217ff7ab1909777234c87f2be931d09ec82107a7f3aaa7e116e3a60cc3aaa06",
+                "sha256:de6c595ca64e370a23da2b325d06cd5258083fa96d7439eac0d381632dcf04db"
             ],
             "index": "pypi",
-            "version": "==2.10.2"
+            "version": "==2.10.3"
         },
         "requests": {
             "hashes": [
