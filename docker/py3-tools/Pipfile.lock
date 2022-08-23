@@ -971,11 +971,11 @@
         },
         "tweepy": {
             "hashes": [
-                "sha256:7f92574920c2f233663fff154745fc2bb0d10aedc23617379a912d8e4fefa399",
-                "sha256:f0abbd234a588e572f880f99a094ac321217ff3eade6c0eca118ed6db8e2cf0a"
+                "sha256:0a21396b646af4fcee69762d2908c104e1fe2e2c4e1dfd6e6078a41b38771382",
+                "sha256:310193775d7fc381abd6f37021a9af27f7e9edfcce5ec51bd73ea5f30c21fa61"
             ],
             "index": "pypi",
-            "version": "==4.10.0"
+            "version": "==4.10.1"
         },
         "urllib3": {
             "hashes": [
