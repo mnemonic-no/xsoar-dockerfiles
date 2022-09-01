@@ -58,11 +58,11 @@
         },
         "markdownify": {
             "hashes": [
-                "sha256:538ec3f7094aa9b8ee4727614a4dc523c80707f9fecbe224b72bc98453efca22",
-                "sha256:72b3a48affccf2feeb25dfd3becabaecf53beaf4e08be68dced8447278832813"
+                "sha256:b8f99a909f76b41aadfb748f2c3ebe237f41dfb261744645af6712c1ed2bd758",
+                "sha256:cd39d9e79cba896de242e36b6cb1121b2d7e943f416e501679fd7945b7cbf1ba"
             ],
             "index": "pypi",
-            "version": "==0.11.4"
+            "version": "==0.11.5"
         },
         "requests": {
             "hashes": [
