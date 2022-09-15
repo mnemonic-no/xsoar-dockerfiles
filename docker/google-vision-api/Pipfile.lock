@@ -82,11 +82,11 @@
         },
         "google-auth-oauthlib": {
             "hashes": [
-                "sha256:24f67735513c4c7134dbde2f1dee5a1deb6acc8dfcb577d7bff30d213a28e7b0",
-                "sha256:30596b824fc6808fdaca2f048e4998cc40fb4b3599eaea66d28dc7085b36c5b8"
+                "sha256:307d21918d61a0741882ad1fd001c67e68ad81206451d05fc4d26f79de56fc90",
+                "sha256:9e8ff4ed2b21c174a2d6cc2172c698dbf0b1f686509774c663a83c495091fe09"
             ],
             "index": "pypi",
-            "version": "==0.5.1"
+            "version": "==0.5.3"
         },
         "google-cloud-vision": {
             "hashes": [
