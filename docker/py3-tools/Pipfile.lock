@@ -272,10 +272,10 @@
         },
         "emoji": {
             "hashes": [
-                "sha256:65c54533ea3c78f30d0729288998715f418d7467de89ec258a31c0ce8660a1d1"
+                "sha256:a2986c21e4aba6b9870df40ef487a17be863cb7778dcf1c01e25917b7cd210bb"
             ],
             "index": "pypi",
-            "version": "==1.7.0"
+            "version": "==2.2.0"
         },
         "enum-compat": {
             "hashes": [
@@ -730,7 +730,8 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:335ab46900b1465e714b4fda4963d87363264eb662aab5e65da039c25f1f5b22"
+                "sha256:335ab46900b1465e714b4fda4963d87363264eb662aab5e65da039c25f1f5b22",
+                "sha256:c4d88f472f54d615e9cd582a5004d1e5f624854a6a27a6211591c251f22a6914"
             ],
             "index": "pypi",
             "version": "==2022.5"
@@ -926,9 +927,9 @@
         },
         "starkbank-ecdsa": {
             "hashes": [
-                "sha256:24422395e8682ac22a5b20ba3d7418d62e1a927aef29e8ddb5e678662be6b643"
+                "sha256:9399c3371b899d4a235b68a1ed7919d202fbf024bd2c863ae8ebdad343c2a63a"
             ],
-            "version": "==2.1.0"
+            "version": "==2.2.0"
         },
         "stix2": {
             "hashes": [
@@ -948,11 +949,11 @@
         },
         "stomp.py": {
             "hashes": [
-                "sha256:69eb189f89a0e843d23d27b030ffb654007bbc57e899ac32183b401c0e0a4623",
-                "sha256:d2bc55b4596604feb51d56895d93431ff8ee159b31b28d9038a2310777bbd3fa"
+                "sha256:49bc4cf5a4b17b6dce6dc2da0cb869f6522f77eff5ba46ee3e26ceb4793be0df",
+                "sha256:b4737d002684639753fbf12dedecb8aa85e5e260749c947acd49c482db42a594"
             ],
             "index": "pypi",
-            "version": "==8.0.1"
+            "version": "==8.1.0"
         },
         "taxii2-client": {
             "hashes": [
@@ -1028,6 +1029,14 @@
             ],
             "index": "pypi",
             "version": "==1.1.1"
+        },
+        "websocket-client": {
+            "hashes": [
+                "sha256:398909eb7e261f44b8f4bd474785b6ec5f5b499d4953342fe9755e01ef624090",
+                "sha256:f9611eb65c8241a67fb373bef040b3cf8ad377a9f6546a12b620b6511e8ea9ef"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==1.4.1"
         },
         "xlrd": {
             "hashes": [
