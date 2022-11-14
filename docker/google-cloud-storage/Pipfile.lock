@@ -41,9 +41,6 @@
             "version": "==2.1.1"
         },
         "google-api-core": {
-            "extras": [
-
-            ],
             "hashes": [
                 "sha256:10c06f7739fe57781f87523375e8e1a3a4674bf6392cd6131a3222182b971320",
                 "sha256:34f24bd1d5f72a8c4519773d99ca6bf080a6c4e041b4e9f024fe230191dda62e"
@@ -77,11 +74,11 @@
         },
         "google-cloud-storage": {
             "hashes": [
-                "sha256:19a26c66c317ce542cea0830b7e787e8dac2588b6bfa4d3fd3b871ba16305ab0",
-                "sha256:382f34b91de2212e3c2e7b40ec079d27ee2e3dbbae99b75b1bcd8c63063ce235"
+                "sha256:104ca28ae61243b637f2f01455cc8a05e8f15a2a18ced96cb587241cdd3820f5",
+                "sha256:4ad0415ff61abdd8bb2ae81c1f8f7ec7d91a1011613f2db87c614c550f97bfe9"
             ],
             "index": "pypi",
-            "version": "==2.5.0"
+            "version": "==2.6.0"
         },
         "google-crc32c": {
             "hashes": [
