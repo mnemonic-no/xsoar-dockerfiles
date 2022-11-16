@@ -42,11 +42,11 @@
         },
         "vertica-python": {
             "hashes": [
-                "sha256:cceb39d081b8d1628956205642e740a9fabcfd2c6ecd982c51134fba8215d0bd",
-                "sha256:e20ad0739ec6b8a42857641c41cc8ee635afbcdb4eb69f8a8b91d614bc37d8f3"
+                "sha256:63d300832d6fe471987880f06a9590eafc46a1f896860881270f6b6645f3bec6",
+                "sha256:dedf56d76b67673b4d57a13f7f96ebdc57b39ea650b93ebf0c05eb6d1d2c0c05"
             ],
             "index": "pypi",
-            "version": "==0.11.0"
+            "version": "==1.1.1"
         }
     },
     "develop": {}
