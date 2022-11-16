@@ -26,11 +26,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:0aa1a42fbd57645fabeb6290a7687c21755b0344ecaeaa05f4e9f6207ae2e9a8",
-                "sha256:aa08c101214127b9b0472ca6338315113c9487d45376fd3e669201b477c71003"
+                "sha256:0d9c601124e5a6ba9712dbc60d9c53c21e34f5f641fe83002317394311bdce14",
+                "sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382"
             ],
             "index": "pypi",
-            "version": "==2022.6.15.2"
+            "version": "==2022.9.24"
         },
         "chardet": {
             "hashes": [
