@@ -98,11 +98,11 @@
         },
         "googleapis-common-protos": {
             "hashes": [
-                "sha256:6b5ee59dc646eb61a8eb65ee1db186d3df6687c8804830024f32573298bca19b",
-                "sha256:ddcd955b5bb6589368f659fa475373faa1ed7d09cde5ba25e88513d87007e174"
+                "sha256:27a849d6205838fb6cc3c1c21cb9800707a661bb21c6ce7fb13e99eb1f8a0c46",
+                "sha256:a9f4a1d7f6d9809657b7f1316a1aa527f6664891531bcfcc13b6696e685f443c"
             ],
             "index": "pypi",
-            "version": "==1.56.1"
+            "version": "==1.57.0"
         },
         "grpcio": {
             "hashes": [
