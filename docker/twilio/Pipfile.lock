@@ -21,7 +21,7 @@
                 "sha256:0d9c601124e5a6ba9712dbc60d9c53c21e34f5f641fe83002317394311bdce14",
                 "sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2022.9.24"
         },
         "charset-normalizer": {
@@ -29,7 +29,7 @@
                 "sha256:5a3d016c7c547f69d6f81fb0db9449ce888b418b5b9952cc5e6e66843e9dd845",
                 "sha256:83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2.1.1"
         },
         "idna": {
@@ -65,11 +65,11 @@
         },
         "twilio": {
             "hashes": [
-                "sha256:4add80f14d8ec5cb3893575671b84b8b2365208ae253eaf7f19972e92d7e22ac",
-                "sha256:754acfe8baeac8e61af5cdb25528da1030c72582c89da460713b2b638b73ce25"
+                "sha256:805b3e880b20757726a38f0f4e0ea6f91f7ce68ecb8f75ba263dccc480a7fd26",
+                "sha256:f64f2106c2c8705ac84c01cb0cdb6157dc8b5d32b5eecbaec70e60cdbf774758"
             ],
             "index": "pypi",
-            "version": "==7.15.2"
+            "version": "==7.15.3"
         },
         "urllib3": {
             "hashes": [
