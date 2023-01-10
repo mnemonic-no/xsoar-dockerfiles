@@ -58,11 +58,11 @@
         },
         "laceworksdk": {
             "hashes": [
-                "sha256:3df4cf2dd3755f3962ca2f6848434bd3346cceb0747e2e2085faffc172890968",
-                "sha256:e77be3d802bd2a2f2b655f9e1e540648c44088171879140c253abb3da0c597c5"
+                "sha256:16e7c337ac4b988c4860807af9668733777938c309ea40a7e78b9b49efbb8cb4",
+                "sha256:7a33b0f45adf1dea2bcd3cb2fa26f3f345439ad537fc1cbb68302ff663fb1057"
             ],
             "index": "pypi",
-            "version": "==1.8.0"
+            "version": "==1.8.1"
         },
         "python-dotenv": {
             "hashes": [
