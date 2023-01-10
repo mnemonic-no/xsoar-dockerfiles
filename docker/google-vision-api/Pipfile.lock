@@ -98,11 +98,11 @@
         },
         "googleapis-common-protos": {
             "hashes": [
-                "sha256:2672d6b3a7b6188b70a5a4c70def7ddbb9000852dfbf49daf52fc7306c09db0c",
-                "sha256:e877f2f041b640b4888b6917dde4f44515ab938bf744c4dbc06f11f0e8ed56b5"
+                "sha256:c727251ec025947d545184ba17e3578840fc3a24a0516a020479edab660457df",
+                "sha256:ca3befcd4580dab6ad49356b46bf165bb68ff4b32389f028f1abd7c10ab9519a"
             ],
             "index": "pypi",
-            "version": "==1.57.1"
+            "version": "==1.58.0"
         },
         "grpcio": {
             "hashes": [
@@ -189,11 +189,11 @@
         },
         "packaging": {
             "hashes": [
-                "sha256:2198ec20bd4c017b8f9717e00f0c8714076fc2fd93816750ab48e2c41de2cfd3",
-                "sha256:957e2148ba0e1a3b282772e791ef1d8083648bc131c8ab0c1feba110ce1146c3"
+                "sha256:714ac14496c3e68c99c29b00845f7a2b85f3bb6f1078fd9f72fd20f0570002b2",
+                "sha256:b6ad297f8907de0fa2fe1ccbd26fdaf387f5f47c7275fedf8cce89f99446cf97"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==22.0"
+            "version": "==23.0"
         },
         "protobuf": {
             "hashes": [
