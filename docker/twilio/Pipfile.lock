@@ -50,10 +50,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:222439474e9c98fced559f1709d89e6c9cbf8d79c794ff3eb9f8800064291427",
-                "sha256:e89512406b793ca39f5971bc999cc538ce125c0e51c27941bef4568b460095e2"
+                "sha256:7ccfae7b4b2c067464a6733c6261673fdb8fd1be905460396b97a073e9fa683a",
+                "sha256:93007def75ae22f7cd991c84e02d434876818661f8df9ad5df9e950ff4e52cfd"
             ],
-            "version": "==2022.6"
+            "version": "==2022.7"
         },
         "requests": {
             "hashes": [
@@ -65,19 +65,19 @@
         },
         "twilio": {
             "hashes": [
-                "sha256:3c02ed1855629e3b567b613c03dfad2aade913f21897d21cd0efe6e48f06ddcf",
-                "sha256:8d6fb07d42235ec60d6256c0f438f6274f601d688e550d25124a0067c4daf75c"
+                "sha256:3c843fb643fe902e727081128e9fb26a3de6bdfb515c818ac5b89a6fdf7f8638",
+                "sha256:8e6602adfb878e2a52ff62b5ca9befc63c5d409262c1cbb1ad84fe7f33131927"
             ],
             "index": "pypi",
-            "version": "==7.16.0"
+            "version": "==7.16.1"
         },
         "urllib3": {
             "hashes": [
-                "sha256:47cc05d99aaa09c9e72ed5809b60e7ba354e64b59c9c173ac3018642d8bb41fc",
-                "sha256:c083dd0dce68dbfbe1129d5271cb90f9447dea7d52097c6e0126120c521ddea8"
+                "sha256:076907bf8fd355cde77728471316625a4d2f7e713c125f51953bb5b3eecf4f72",
+                "sha256:75edcdc2f7d85b137124a6c3c9fc3933cdeaa12ecb9a6a959f22797a0feca7e1"
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
-            "version": "==1.26.13"
+            "version": "==1.26.14"
         }
     },
     "develop": {}
