@@ -144,11 +144,11 @@
         },
         "opensearch-dsl": {
             "hashes": [
-                "sha256:745fd4b05934b764f3ebca0dd9b1e7bd9b5934fcbb6c620d7087d24bcc8241c7",
-                "sha256:aee9199b3fee8a572bc476e22be44d8acafbef8f1b777a51fac898623f125b56"
+                "sha256:8226381665073f110ef3d3a5027e625255df55d91d302044999c590b4d662539",
+                "sha256:c233a9b6f35b401db3755dd3430e7a38b989433a50e7ceee2958521a9abf56a7"
             ],
             "index": "pypi",
-            "version": "==1.0.0"
+            "version": "==2.0.1"
         },
         "opensearch-py": {
             "hashes": [
