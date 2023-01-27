@@ -128,11 +128,11 @@
         },
         "intezer-sdk": {
             "hashes": [
-                "sha256:56267bbde061bc786e662d60767774fa7dcfe6ed9fc8b40296751f930804b25e",
-                "sha256:7d24a5785abb15a4df3e3c186e30d26b240973308f74513f7a1e99ac8e340fca"
+                "sha256:b351aaad8e4bcb46a0bdfa6a15367d5d12bce2f4932c6727807bdd16109eda53",
+                "sha256:cf737eaa261e158815536dfcfdd3cc443871336d3aeb746858a6ad71656036a5"
             ],
             "index": "pypi",
-            "version": "==1.14.4"
+            "version": "==1.15.0"
         },
         "requests": {
             "hashes": [
