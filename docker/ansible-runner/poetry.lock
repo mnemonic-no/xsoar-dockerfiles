@@ -413,21 +413,72 @@ msrestazure = ">=0.4.32,<2.0.0"
 
 [[package]]
 name = "azure-keyvault"
-version = "1.0.0a1"
-description = "Microsoft Azure Key Vault Client Library for Python"
+version = "4.1.0"
+description = "Microsoft Azure Key Vault Client Libraries for Python"
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "azure-keyvault-1.0.0a1.zip", hash = "sha256:382cd04c3f47619241c91c651731054360fdf7b7d47d6cc36145943b34465655"},
-    {file = "azure_keyvault-1.0.0a1-py2.py3-none-any.whl", hash = "sha256:54e1f5aca5202bdb8f48f07b68485ddb5adb44a62931b04a28132b64e2e872a6"},
+    {file = "azure-keyvault-4.1.0.zip", hash = "sha256:69002a546921a8290eb54d9a3805cfc515c321bc1d4c0bfcfb463620245eca40"},
+    {file = "azure_keyvault-4.1.0-py2.py3-none-any.whl", hash = "sha256:5fa0438f7f6e2e79543f2724957acf77c3c187e558f4d030a4f9b7493b9f946d"},
 ]
 
 [package.dependencies]
-azure-nspkg = ">=2.0.0"
+azure-keyvault-certificates = ">=4.1,<5.0"
+azure-keyvault-keys = ">=4.1,<5.0"
+azure-keyvault-secrets = ">=4.1,<5.0"
+
+[[package]]
+name = "azure-keyvault-certificates"
+version = "4.2.1"
+description = "Microsoft Azure Key Vault Certificates Client Library for Python"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "azure-keyvault-certificates-4.2.1.zip", hash = "sha256:ea651883ad00d0a9a25b38e51feff7111f6c7099c6fb2597598da5bb21d3451c"},
+    {file = "azure_keyvault_certificates-4.2.1-py2.py3-none-any.whl", hash = "sha256:9959a1e49cac4dfaa8e7e36c86fe7d7c4159a3b76a29788d042d41ec41200a8b"},
+]
+
+[package.dependencies]
+azure-common = ">=1.1,<2.0"
+azure-core = ">=1.7.0,<2.0.0"
+msrest = ">=0.6.0"
+
+[[package]]
+name = "azure-keyvault-keys"
+version = "4.3.1"
+description = "Microsoft Azure Key Vault Keys Client Library for Python"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "azure-keyvault-keys-4.3.1.zip", hash = "sha256:fbf67bca913ebf68b9075ee9d2e2b899dc3c7892cc40abfe1b08220a382f6ed9"},
+    {file = "azure_keyvault_keys-4.3.1-py2.py3-none-any.whl", hash = "sha256:25cf889bbcafd8dee0e068fd48d84e24e11143bf85e35c68d997a222e4a0f7fb"},
+]
+
+[package.dependencies]
+azure-common = ">=1.1,<2.0"
+azure-core = ">=1.7.0,<2.0.0"
 cryptography = ">=2.1.4"
-msrestazure = ">=0.4.15"
-requests = ">=2.18.4"
+msrest = ">=0.6.0"
+
+[[package]]
+name = "azure-keyvault-secrets"
+version = "4.2.0"
+description = "Microsoft Azure Key Vault Secrets Client Library for Python"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "azure-keyvault-secrets-4.2.0.zip", hash = "sha256:1083ab900da5ec63c518ffef49d9fdca02c81ddffdf80c52c03cd9da479e021f"},
+    {file = "azure_keyvault_secrets-4.2.0-py2.py3-none-any.whl", hash = "sha256:08b8aa518590c394477514f4a0a5d9e557a00ff164de9f6f6e7b112f8d5e6aa1"},
+]
+
+[package.dependencies]
+azure-common = ">=1.1,<2.0"
+azure-core = ">=1.7.0,<2.0.0"
+msrest = ">=0.6.0"
 
 [[package]]
 name = "azure-mgmt-apimanagement"
@@ -2349,4 +2400,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "21fe1456824384370f6e983131529d05699cbc17c18b835daa1a45d3bb099503"
+content-hash = "f2e3e4ca802a9c2500122e9af5f0b30ae89bbf7d0f98fd4b2a289f4e2d59bb1c"
