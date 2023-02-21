@@ -18,11 +18,11 @@
     "default": {
         "cachetools": {
             "hashes": [
-                "sha256:2cc0b89715337ab6dbba85b5b50effe2b0c74e035d83ee8ed637cf52f12ae001",
-                "sha256:61b5ed1e22a0924aed1d23b478f37e8d52549ff8a961de2909c69bf950020cff"
+                "sha256:89ea6f1b638d5a73a4f9226be57ac5e4f399d22770b92355f92dcb0f7f001693",
+                "sha256:92971d3cb7d2a97efff7c7bb1657f21a8f5fb309a37530537c71b1774189f2d1"
             ],
             "index": "pypi",
-            "version": "==4.2.2"
+            "version": "==4.2.4"
         },
         "certifi": {
             "hashes": [
@@ -312,11 +312,11 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:23c86b4e44432bfd8899384afc08872ec166a24f48a3f99f293b0a557e6a6b5d",
-                "sha256:daec07fd848d80676694d6bf69c009d28910aeece68a38dbe88b7e1bb6dba12e"
+                "sha256:9d3de8591bd6f6522594406fa46a6418eabd0562dacb267f8556675762801514",
+                "sha256:ed4e75fafe103c79b692f217158ba87edf38d31004b9dbc1913debb48793c828"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==67.3.1"
+            "version": "==67.3.3"
         },
         "six": {
             "hashes": [
