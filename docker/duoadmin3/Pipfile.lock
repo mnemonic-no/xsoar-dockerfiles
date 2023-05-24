@@ -18,11 +18,11 @@
     "default": {
         "duo-client": {
             "hashes": [
-                "sha256:33743445639c9f226fe9193f562fc300c9014ff2680a83daccd4dc7277111617",
-                "sha256:a6a263e8060fb518f80a5f2c4b7256c8e53d2cecab5b09839699a3201a0e22eb"
+                "sha256:8159b93a516979ae18e985bbca46ba3bf8ec27cd7ff6db464b37fa667d49c9b5",
+                "sha256:a13c47b0cb91e3a0d33b2f99271a0a6c2de17f92dd0ad4c649a366a0533db0c7"
             ],
             "index": "pypi",
-            "version": "==4.7.0"
+            "version": "==5.0.1"
         },
         "pydantic": {
             "hashes": [
