@@ -189,7 +189,7 @@
                 "sha256:03f829f5bb1923180821643f8753b0502c3b682293992485b0eef2807afa5cba",
                 "sha256:63579f9a0628e06278f7e47b7d7d5b6ce20dc65c5e96a6f3ca99a6adca0396e8"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4.0'",
+            "markers": "python_version >= '3.7' and python_version < '4'",
             "version": "==2.2.1"
         },
         "beautifulsoup4": {
@@ -485,7 +485,7 @@
                 "sha256:06d2aad0ac723e35b1cb47885d3e5c45e956a53bc1b209a9fc5369007fe46676",
                 "sha256:5766780452bd5ec8ba133f8bf287dc92713e3868ddd83aee4faab9fc3e303dc3"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4.0'",
+            "markers": "python_version >= '3.6' and python_version < '4'",
             "version": "==3.2.3"
         },
         "idna": {
@@ -498,11 +498,11 @@
         },
         "imap-tools": {
             "hashes": [
-                "sha256:2ec8a206eb67dad9809f6ba5a400870ae298c5584560173e87c3915b48f075e1",
-                "sha256:53703e9b6d5afce4cb6747b1939b42928ede86fd0d1d760f640ac78e900ad56c"
+                "sha256:29bb8fa2705da8a0e5bdf397ed98e752437cccd7b91450fb4c57a2717140c261",
+                "sha256:c002866466d8a826f4be3b5b7e48bf4be7db4b9000e4efd170c6bad1468a45ca"
             ],
             "index": "pypi",
-            "version": "==1.1.0"
+            "version": "==1.2.0"
         },
         "imapclient": {
             "hashes": [
