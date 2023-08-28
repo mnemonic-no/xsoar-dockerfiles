@@ -189,7 +189,7 @@
                 "sha256:03f829f5bb1923180821643f8753b0502c3b682293992485b0eef2807afa5cba",
                 "sha256:63579f9a0628e06278f7e47b7d7d5b6ce20dc65c5e96a6f3ca99a6adca0396e8"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4'",
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
             "version": "==2.2.1"
         },
         "beautifulsoup4": {
@@ -467,11 +467,11 @@
         },
         "geopy": {
             "hashes": [
-                "sha256:228cd53b6eef699b2289d1172e462a90d5057779a10388a7366291812601187f",
-                "sha256:4a29a16d41d8e56ba8e07310802a1cbdf098eeb6069cc3d6d3068fc770629ffc"
+                "sha256:a59392bf17adb486b25dbdd71fbed27733bdf24a2dac588047a619de56695e36",
+                "sha256:d2639a46d0ce4c091e9688b750ba94348a14b898a1e55c68f4b4a07e7d1afa20"
             ],
             "index": "pypi",
-            "version": "==2.3.0"
+            "version": "==2.4.0"
         },
         "gql": {
             "hashes": [
@@ -486,7 +486,7 @@
                 "sha256:06d2aad0ac723e35b1cb47885d3e5c45e956a53bc1b209a9fc5369007fe46676",
                 "sha256:5766780452bd5ec8ba133f8bf287dc92713e3868ddd83aee4faab9fc3e303dc3"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4'",
+            "markers": "python_version >= '3.6' and python_version < '4.0'",
             "version": "==3.2.3"
         },
         "idna": {
