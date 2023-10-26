@@ -175,12 +175,12 @@
         },
         "pycti": {
             "hashes": [
-                "sha256:327fb02cfea448b9b3f3c6c5759e7fdcdef7f364995126e0c2ac11c0b2940418",
-                "sha256:6a8df11f960e81675a9fa224d3013ca854e516ad48a083d5988149ac5a082d01"
+                "sha256:0bf1535a312d492514787337b7551419e56395bb78bccb2e0fbf43b9fc7d9b23",
+                "sha256:1c479ce7a0aedb342d77dac35723f8e0c7b726216dcbd74788ef63bda8d0ef4a"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==5.11.10"
+            "version": "==5.11.11"
         },
         "python-dateutil": {
             "hashes": [
