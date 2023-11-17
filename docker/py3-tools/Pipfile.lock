@@ -224,7 +224,7 @@
                 "sha256:2857e29ff0d34db842cd7ca3230549d1a697f96ee6d3fb071cfa6c7393832597",
                 "sha256:6881edbebdb17b39b4eaaa821b438bf6eddffb4468cf344f09f89def34a8b1df"
             ],
-            "markers": "python_version >= '3'",
+            "markers": "python_full_version >= '3.5.0'",
             "version": "==2.0.12"
         },
         "circleci": {
@@ -1106,12 +1106,12 @@
         },
         "tldextract": {
             "hashes": [
-                "sha256:30a492de80f4de215aa998588ba5c2e625ee74ace3a2705cfb52b0021053bcbe",
-                "sha256:a5d8b6583791daca268a7592ebcf764152fa49617983c49916ee9de99b366222"
+                "sha256:9b6dbf803cb5636397f0203d48541c0da8ba53babaf0e8a6feda2d88746813d4",
+                "sha256:b9c4510a8766d377033b6bace7e9f1f17a891383ced3c5d50c150f181e9e1cc2"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.7'",
-            "version": "==3.6.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==5.1.1"
         },
         "toml": {
             "hashes": [
