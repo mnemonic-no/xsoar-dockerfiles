@@ -448,11 +448,11 @@
         },
         "huggingface-hub": {
             "hashes": [
-                "sha256:92be892405d2f6a7a8479016f9a5662354f202b2c6c1ff499609621aed1fae10",
-                "sha256:abdf3244d3a274c4b1fbc5c4a1ef700032b3f60ba93cc63e4f036fd082aa2805"
+                "sha256:7b45d6744dd53ce9cbf9880957de00e9d10a9ae837f1c9b7255fc8fa4e8264f3",
+                "sha256:d93fb63b1f1a919a22ce91a14518974e81fc4610bf344dfe7572343ce8d3aced"
             ],
             "markers": "python_full_version >= '3.8.0'",
-            "version": "==0.24.2"
+            "version": "==0.24.5"
         },
         "humanfriendly": {
             "hashes": [
@@ -2041,20 +2041,20 @@
         },
         "tqdm": {
             "hashes": [
-                "sha256:b75ca56b413b030bc3f00af51fd2c1a1a5eac6a0c1cca83cbb37a5c52abce644",
-                "sha256:e4d936c9de8727928f3be6079590e97d9abfe8d39a590be678eb5919ffc186bb"
+                "sha256:90279a3770753eafc9194a0364852159802111925aa30eb3f9d85b0e805ac7cd",
+                "sha256:e1020aef2e5096702d8a025ac7d16b1577279c9d63f8375b63083e9a5f0fcbad"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==4.66.4"
+            "version": "==4.66.5"
         },
         "transformers": {
             "hashes": [
-                "sha256:6552beada5d826c25ff9b79139d237ab9050c6ea96b73d7fd2f8a8ba23ee76a4",
-                "sha256:820c5b192bb1bf47250802901a8f0bf581e06b8fded89179d4ef08a1e903ee1c"
+                "sha256:b62288990a65ed9bfb79191e04dbb76c9376834ae6e0dd911320a2ced63324fe",
+                "sha256:d2202ed201e0c44f80de8d753a19f6164187754630bc1f915661b9511d61c773"
             ],
             "index": "pypi",
             "markers": "python_full_version >= '3.8.0'",
-            "version": "==4.43.3"
+            "version": "==4.43.4"
         },
         "typer": {
             "hashes": [
