@@ -34,11 +34,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:3cd43f1c6fa7dedc5899d69d3ad0398fd018ad1a17fba83ddaf78aa46c747516",
-                "sha256:ddc6c8ce995e6987e7faf5e3f1b02b302836a0e5d98ece18392cb1a36c72ad56"
+                "sha256:5a1e7645bc0ec61a09e26c36f6106dd4cf40c6db3a1fb6352b0244e7fb057c7b",
+                "sha256:c198e21b1289c2ab85ee4e67bb4b4ef3ead0892059901a8d5b622f24a1101e90"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2024.6.2"
+            "version": "==2024.7.4"
         },
         "cffi": {
             "hashes": [
@@ -334,11 +334,11 @@
         },
         "publicsuffixlist": {
             "hashes": [
-                "sha256:1adbe214791597fc29369d19b6a091ebaf41bb70a451cba397e1575b5571ca64",
-                "sha256:e5e9a355f085e26709ea5e20807f835cf285848453c82ad1983982dc22ff3878"
+                "sha256:b95c4ea76c32656aef1492d947561f6ebf191065cb6aa806d272ce4936d370c5",
+                "sha256:dccebfc980f6adff5be82a62e2ab14320c6498a339ef6519bf35548253edcb4a"
             ],
             "markers": "python_version >= '3.5'",
-            "version": "==1.0.1.20240622"
+            "version": "==1.0.2.20240814"
         },
         "pycparser": {
             "hashes": [
@@ -352,12 +352,12 @@
                 "email"
             ],
             "hashes": [
-                "sha256:3810f83b7edb2e08b3a6a50e90bdd504c2e2117ae255ab408c4a9253ea82658d",
-                "sha256:f7adb929a0f8a7f0a7c8a9be7727db247a9a30f3525216747fdbca151eb0a44a"
+                "sha256:86620b0b77b51eb5d08dcb2c1705ab0ce36813e35f48a488067266f565005dc9",
+                "sha256:f56ad708566b9f912809375cb982fadf67a3eb282970e1172d971b0fad35042b"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8' and python_version < '4.0'",
-            "version": "==2.4.194"
+            "version": "==2.4.196"
         },
         "pyparsing": {
             "hashes": [
