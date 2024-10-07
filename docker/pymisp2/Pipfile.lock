@@ -267,11 +267,11 @@
         },
         "idna": {
             "hashes": [
-                "sha256:050b4e5baadcd44d760cedbd2b8e639f2ff89bbc7a5730fcc662954303377aac",
-                "sha256:d838c2c0ed6fced7693d5e8ab8e734d5f8fda53a039c0164afb0b82e771e3603"
+                "sha256:12f65c9b470abda6dc35cf8e63cc574b1c52b11df2c86030af0ac09b01b13ea9",
+                "sha256:946d195a0d259cbba61165e88e65941f16e9b36ea6ddb97f00452bae8b1287d3"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==3.8"
+            "version": "==3.10"
         },
         "imapclient": {
             "hashes": [
@@ -334,11 +334,11 @@
         },
         "publicsuffixlist": {
             "hashes": [
-                "sha256:1fbf87485d1729f00e03c2c8fbf3b729ee3de5886bc1bd8b580cf86ddd850b5f",
-                "sha256:dfb109e165d9421c1c245f09045249ce395c88612b5d9e78953613c41ffe4d3a"
+                "sha256:4fdd9034aeba3dfc81515a5b1eae1eb461b7a5d63a7e0a5ac215fbd53d505e65",
+                "sha256:60a2e28e3435c55e2441121b690867f07bff865d90bf6616710ad7a0e3af9c61"
             ],
             "markers": "python_version >= '3.5'",
-            "version": "==1.0.2.20240913"
+            "version": "==1.0.2.20241003"
         },
         "pycparser": {
             "hashes": [
@@ -352,12 +352,12 @@
                 "email"
             ],
             "hashes": [
-                "sha256:10fcf0033bd73dcae1b7f286bb1243e00fed6a8d9a5c4765a3c81274c1e0a8f5",
-                "sha256:f5583263c2fcd380570c084b21c4e4812a01c32daa7baafcdc3f87153edc9303"
+                "sha256:b15915aa88376b94cb608ce38469e3bbdc7ca5507709e64dfeb46b874a17969b",
+                "sha256:d3bfc7a337e4382026343f05aa442bfdecc3e11a4f3a5479ad0e6087dcde7e78"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8' and python_version < '4.0'",
-            "version": "==2.4.198"
+            "version": "==2.5.0"
         },
         "pyparsing": {
             "hashes": [
