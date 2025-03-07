@@ -18,11 +18,11 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:1275f7a45be9464efc1173084eaa30f866fe2e47d389406136d332ed4967ec56",
-                "sha256:b650d30f370c2b724812bee08008be0c4163b163ddaec3f2546c1caf65f191db"
+                "sha256:3d5da6925056f6f18f119200434a4780a94263f10d1c21d032a6f6b2baa20651",
+                "sha256:ca78db4565a652026a4db2bcdf68f2fb589ea80d0be70e03929ed730746b84fe"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2024.12.14"
+            "version": "==2025.1.31"
         },
         "charset-normalizer": {
             "hashes": [
@@ -193,12 +193,12 @@
         },
         "pysigma-backend-qradar": {
             "hashes": [
-                "sha256:bfe039aef38e610c268c367e594f9c41a6d74c949db04d5495f4c66503de64a3",
-                "sha256:c790537ac72c9d8a3cdf4a0b4b24681c54a864647b73328b100a35c12034b6e0"
+                "sha256:bc7cab0df22dbc48be80f46e876df1ca43908352f6277b6d70c7db389579b3e0",
+                "sha256:d2822e485c630f27f2ada4401a9f052e63af1668acb7707af518d5b686c91dc9"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8' and python_version < '4.0'",
-            "version": "==0.3.2"
+            "version": "==0.3.3"
         },
         "pysigma-backend-sentinelone": {
             "hashes": [
