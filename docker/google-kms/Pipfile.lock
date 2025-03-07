@@ -266,31 +266,31 @@
         },
         "google-cloud-kms": {
             "hashes": [
-                "sha256:375db358ee1f9b5172fda9cb5d33223ececb049e804c50413f2d2ac26498b585",
-                "sha256:8992d492c07bde7ea857bf997114554496bb5e8f2dd1b800d771b2516b4abfc4"
+                "sha256:042a3acb35ff8c925aa8c25602c4ad9e7c204e9009a2083f0d32fe88763448c2",
+                "sha256:fcd0e428e5d9d80fd992cfbea775363eac839bb9fe2d60873cc933528c7e7658"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==3.3.1"
+            "version": "==3.4.0"
         },
         "googleapis-common-protos": {
             "extras": [
                 "grpc"
             ],
             "hashes": [
-                "sha256:95d38161f4f9af0d9423eed8fb7b64ffd2568c3464eb542ff02c5bfa1953ab3c",
-                "sha256:aaf179b2f81df26dfadac95def3b16a95064c76a5f45f07e4c68a21bb371c4ac"
+                "sha256:4077f27a6900d5946ee5a369fab9c8ded4c0ef1c6e880458ea2f70c14f7b70d5",
+                "sha256:e20d2d8dda87da6fe7340afbbdf4f0bcb4c8fae7e6cadf55926c31f946b0b9b1"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.68.0"
+            "version": "==1.69.1"
         },
         "grpc-google-iam-v1": {
             "hashes": [
-                "sha256:c66e07aa642e39bb37950f9e7f491f70dad150ac9801263b42b2814307c2df99",
-                "sha256:fb4a084b30099ba3ab07d61d620a0d4429570b13ff53bd37bac75235f98b7da4"
+                "sha256:14149f37af0e5779fa8a22a8ae588663269e8a479d9c2e69a5056e589bf8a891",
+                "sha256:b4eca35b2231dd76066ebf1728f3cd30d51034db946827ef63ef138da14eea16"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==0.14.0"
+            "version": "==0.14.1"
         },
         "grpcio": {
             "hashes": [
