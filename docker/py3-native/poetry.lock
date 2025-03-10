@@ -239,14 +239,14 @@ typing-extensions = ">=4.0.0"
 
 [[package]]
 name = "azure-kusto-data"
-version = "4.5.1"
+version = "4.6.3"
 description = "Kusto Data Client"
 optional = false
 python-versions = "*"
 groups = ["main"]
 files = [
-    {file = "azure-kusto-data-4.5.1.tar.gz", hash = "sha256:13675546254021bba4fccba801c15ca8f18037510f527fe518001b544e1335ce"},
-    {file = "azure_kusto_data-4.5.1-py2.py3-none-any.whl", hash = "sha256:8ae99bd2a88793345d2cbe32f2c14ce27a2d1e3adcee29a718b7e7c3ccb1fcbd"},
+    {file = "azure-kusto-data-4.6.3.tar.gz", hash = "sha256:0a00c62c594decd68b14d69fd394f0008136c6ce512ee375f9c73e7a0c90a34d"},
+    {file = "azure_kusto_data-4.6.3-py2.py3-none-any.whl", hash = "sha256:d6991d9c776bf14d3ad49f9330e250b98976720539d357d42ec60af80bb9e514"},
 ]
 
 [package.dependencies]
