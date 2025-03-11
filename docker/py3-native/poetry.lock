@@ -3718,14 +3718,14 @@ files = [
 
 [[package]]
 name = "slack-sdk"
-version = "3.32.0"
+version = "3.34.0"
 description = "The Slack API Platform SDK for Python"
 optional = false
 python-versions = ">=3.6"
 groups = ["main"]
 files = [
-    {file = "slack_sdk-3.32.0-py2.py3-none-any.whl", hash = "sha256:f35e85f2847e6c25cf7c2d1df206ca0ad75556263fb592457bf03cca68ef64bb"},
-    {file = "slack_sdk-3.32.0.tar.gz", hash = "sha256:af8fc4ef1d1cbcecd28d01acf6955a3bb5b13d56f0a43a1b1c7e3b212cc5ec5b"},
+    {file = "slack_sdk-3.34.0-py2.py3-none-any.whl", hash = "sha256:c61f57f310d85be83466db5a98ab6ae3bb2e5587437b54fa0daa8fae6a0feffa"},
+    {file = "slack_sdk-3.34.0.tar.gz", hash = "sha256:ff61db7012160eed742285ea91f11c72b7a38a6500a7f6c5335662b4bc6b853d"},
 ]
 
 [package.dependencies]
@@ -3734,10 +3734,10 @@ aiohttp = {version = ">=3.7.3,<4", optional = true, markers = "extra == \"option
 boto3 = {version = "<=2", optional = true, markers = "extra == \"optional\""}
 SQLAlchemy = {version = ">=1.4,<3", optional = true, markers = "extra == \"optional\""}
 websocket-client = {version = ">=1,<2", optional = true, markers = "extra == \"optional\""}
-websockets = {version = ">=9.1,<14", optional = true, markers = "extra == \"optional\""}
+websockets = {version = ">=9.1,<15", optional = true, markers = "extra == \"optional\""}
 
 [package.extras]
-optional = ["SQLAlchemy (>=1.4,<3)", "aiodns (>1.0)", "aiohttp (>=3.7.3,<4)", "boto3 (<=2)", "websocket-client (>=1,<2)", "websockets (>=9.1,<14)"]
+optional = ["SQLAlchemy (>=1.4,<3)", "aiodns (>1.0)", "aiohttp (>=3.7.3,<4)", "boto3 (<=2)", "websocket-client (>=1,<2)", "websockets (>=9.1,<15)"]
 
 [[package]]
 name = "slackclient"
