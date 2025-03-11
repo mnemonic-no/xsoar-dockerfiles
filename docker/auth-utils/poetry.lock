@@ -203,23 +203,23 @@ typing-extensions = ">=4.0.0"
 
 [[package]]
 name = "azure-kusto-data"
-version = "4.6.3"
+version = "5.0.0"
 description = "Kusto Data Client"
 optional = false
 python-versions = "*"
 groups = ["main"]
 files = [
-    {file = "azure-kusto-data-4.6.3.tar.gz", hash = "sha256:0a00c62c594decd68b14d69fd394f0008136c6ce512ee375f9c73e7a0c90a34d"},
-    {file = "azure_kusto_data-4.6.3-py2.py3-none-any.whl", hash = "sha256:d6991d9c776bf14d3ad49f9330e250b98976720539d357d42ec60af80bb9e514"},
+    {file = "azure-kusto-data-5.0.0.tar.gz", hash = "sha256:1aedf133d885d63990d493f87d96a767ed1fab97c63d3da60848151f3032abcc"},
+    {file = "azure_kusto_data-5.0.0-py2.py3-none-any.whl", hash = "sha256:ef1cd66acf67dae654ef6112aeb34c07ec40ae216c815f06d0e03b05456502db"},
 ]
 
 [package.dependencies]
 azure-core = ">=1.11.0,<2"
-azure-identity = ">=1.5.0,<2"
+azure-identity = ">=1.6.1,<2"
 ijson = ">=3.1,<4.0"
 msal = ">=1.9.0,<2"
 python-dateutil = ">=2.8.0"
-requests = ">=2.13.0"
+requests = "2.32.0"
 
 [package.extras]
 aio = ["aiohttp (>=3.8.0,<4)", "asgiref (>=3.2.3,<4)"]
@@ -1321,14 +1321,14 @@ kerberos = ["pykerberos (>=1.2.1,<2.0.0) ; sys_platform != \"win32\"", "winkerbe
 
 [[package]]
 name = "requests"
-version = "2.32.3"
+version = "2.32.0"
 description = "Python HTTP for Humans."
 optional = false
 python-versions = ">=3.8"
 groups = ["main"]
 files = [
-    {file = "requests-2.32.3-py3-none-any.whl", hash = "sha256:70761cfe03c773ceb22aa2f671b4757976145175cdfca038c02654d061d6dcc6"},
-    {file = "requests-2.32.3.tar.gz", hash = "sha256:55365417734eb18255590a9ff9eb97e9e1da868d4ccd6402399eaf68af20a760"},
+    {file = "requests-2.32.0-py3-none-any.whl", hash = "sha256:f2c3881dddb70d056c5bd7600a4fae312b2a300e39be6a118d30b90bd27262b5"},
+    {file = "requests-2.32.0.tar.gz", hash = "sha256:fa5490319474c82ef1d2c9bc459d3652e3ae4ef4c4ebdd18a21145a47ca4b6b8"},
 ]
 
 [package.dependencies]
