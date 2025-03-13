@@ -1572,18 +1572,18 @@ source = ["Cython (>=3.0.11)"]
 
 [[package]]
 name = "msal"
-version = "1.31.0"
+version = "1.32.0"
 description = "The Microsoft Authentication Library (MSAL) for Python library enables your app to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry standard OAuth2 and OpenID Connect."
 optional = false
 python-versions = ">=3.7"
 groups = ["main"]
 files = [
-    {file = "msal-1.31.0-py3-none-any.whl", hash = "sha256:96bc37cff82ebe4b160d5fc0f1196f6ca8b50e274ecd0ec5bf69c438514086e7"},
-    {file = "msal-1.31.0.tar.gz", hash = "sha256:2c4f189cf9cc8f00c80045f66d39b7c0f3ed45873fd3d1f2af9f22db2e12ff4b"},
+    {file = "msal-1.32.0-py3-none-any.whl", hash = "sha256:9dbac5384a10bbbf4dae5c7ea0d707d14e087b92c5aa4954b3feaa2d1aa0bcb7"},
+    {file = "msal-1.32.0.tar.gz", hash = "sha256:5445fe3af1da6be484991a7ab32eaa82461dc2347de105b76af92c610c3335c2"},
 ]
 
 [package.dependencies]
-cryptography = ">=2.5,<46"
+cryptography = ">=2.5,<47"
 PyJWT = {version = ">=1.0.0,<3", extras = ["crypto"]}
 requests = ">=2.0.0,<3"
 
