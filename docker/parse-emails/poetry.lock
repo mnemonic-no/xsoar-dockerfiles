@@ -508,14 +508,14 @@ files = [
 
 [[package]]
 name = "parse-emails"
-version = "0.1.41"
+version = "0.1.43"
 description = "Parses an email message file and extracts the data from it."
 optional = false
 python-versions = "<3.13,>=3.9"
 groups = ["main"]
 files = [
-    {file = "parse_emails-0.1.41-py3-none-any.whl", hash = "sha256:04897c64093f735cf534d217f9632bdc7c415ad7734e64d6a1b4cbbadd7ee77d"},
-    {file = "parse_emails-0.1.41.tar.gz", hash = "sha256:0130474ffc5103de549342a036134e914577a307fe9f237516f379af1cc63467"},
+    {file = "parse_emails-0.1.43-py3-none-any.whl", hash = "sha256:aa190fa8cf350f7958f0f0f8dabca22384119ce0076c6cd46f5815962b32b275"},
+    {file = "parse_emails-0.1.43.tar.gz", hash = "sha256:dcd9227007d58824a409b8f54f1d3e0e6efeebde8acad9602ccaa71cb0885f12"},
 ]
 
 [package.dependencies]
