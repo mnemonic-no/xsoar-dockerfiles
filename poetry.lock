@@ -2093,14 +2093,14 @@ files = [
 
 [[package]]
 name = "pipenv"
-version = "2024.4.1"
+version = "2026.2.1"
 description = "Python Development Workflow for Humans."
 optional = false
-python-versions = ">=3.8"
+python-versions = ">=3.10"
 groups = ["main"]
 files = [
-    {file = "pipenv-2024.4.1-py3-none-any.whl", hash = "sha256:ab26ee98a7d83d342c1f562ee0564094ab1de091e5d5cec4eeaa95fb600de998"},
-    {file = "pipenv-2024.4.1.tar.gz", hash = "sha256:e8ea6105c1cdda7d5c19df7bd6439a006751f3d4e017602c791e7b51314adf84"},
+    {file = "pipenv-2026.2.1-py3-none-any.whl", hash = "sha256:ddba48a3f9a27e6330b391180ba078354d4d8de480bbe49e7432d6c8ead5bbd7"},
+    {file = "pipenv-2026.2.1.tar.gz", hash = "sha256:cd2858095181578ec17451f3ff02b8f74eb9038013ddbbc54228c5f0611fa3da"},
 ]
 
 [package.dependencies]
@@ -2110,8 +2110,9 @@ setuptools = ">=67"
 virtualenv = ">=20.24.2"
 
 [package.extras]
-dev = ["beautifulsoup4", "black (==24.3.0)", "flake8 (>=3.3,<4)", "invoke", "parver", "sphinx", "towncrier"]
-tests = ["flaky", "mock", "pytest (>=5)", "pytest-timeout", "pytest-xdist"]
+dev = ["beautifulsoup4", "black (==26.3.1)", "flake8 (>=3.3,<4)", "invoke", "parver", "sphinx", "towncrier"]
+safety = ["safety (>=3.0.0)"]
+tests = ["mock", "pytest (>=5)", "pytest-rerunfailures", "pytest-timeout", "pytest-xdist"]
 
 [[package]]
 name = "platformdirs"
@@ -3742,4 +3743,4 @@ pyyaml = "*"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<3.13"
-content-hash = "b1dd33a7f6679135033dfc0d8df001e14b6fface254082644056e954fd8b9b38"
+content-hash = "07e35702fd6787307505eeff47f0817ef9a62b7be4d45787443b16d96f30ec4d"
