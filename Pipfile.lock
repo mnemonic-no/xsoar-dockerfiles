@@ -159,6 +159,13 @@
             "markers": "python_version >= '3.7'",
             "version": "==3.4.7"
         },
+        "distlib": {
+            "hashes": [
+                "sha256:9659f7d87e46584a30b5780e43ac7a2143098441670ff0a49d5f9034c54a6c16",
+                "sha256:feec40075be03a04501a973d81f633735b4b69f98b05450592310c0f401a4e0d"
+            ],
+            "version": "==0.4.0"
+        },
         "dockerfile-parse": {
             "hashes": [
                 "sha256:3184ccdc513221983e503ac00e1aa504a2aa8f84e5de673c46b0b6eee99ec7bc",
@@ -175,6 +182,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.3.1"
+        },
+        "filelock": {
+            "hashes": [
+                "sha256:69974355e960702e789734cb4871f884ea6fe50bd8404051a3530bc07809cf90",
+                "sha256:96f5f6344709aa1572bbf631c640e4ebeeb519e08da902c39a001882f30ac258"
+            ],
+            "markers": "python_version >= '3.10'",
+            "version": "==3.29.0"
         },
         "gitdb": {
             "hashes": [
@@ -211,11 +226,28 @@
         },
         "packaging": {
             "hashes": [
-                "sha256:5d9c0669c6285e491e0ced2eee587eaf67b670d94a19e94e3984a481aba6802f",
-                "sha256:f042152b681c4bfac5cae2742a55e103d27ab2ec0f3d88037136b6bfe7c9c5de"
+                "sha256:5fc45236b9446107ff2415ce77c807cee2862cb6fac22b8a73826d0693b0980e",
+                "sha256:ff452ff5a3e828ce110190feff1178bb1f2ea2281fa2075aadb987c2fb221661"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==26.1"
+            "version": "==26.2"
+        },
+        "pipenv": {
+            "hashes": [
+                "sha256:4914180cf27ca5429476a879ff2ed808e330400c3cceb3b63e14f080afdc16aa",
+                "sha256:84262cc298ffed36f7463d8c16255d9edf63e5fda5dbee8ccc4a80f6d774590f"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.10'",
+            "version": "==2026.6.0"
+        },
+        "platformdirs": {
+            "hashes": [
+                "sha256:3bfa75b0ad0db84096ae777218481852c0ebc6c727b3168c1b9e0118e458cf0a",
+                "sha256:e61adb1d5e5cb3441b4b7710bea7e4c12250ca49439228cc1021c00dcfac0917"
+            ],
+            "markers": "python_version >= '3.10'",
+            "version": "==4.9.6"
         },
         "pluggy": {
             "hashes": [
@@ -258,6 +290,14 @@
             "index": "pypi",
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
             "version": "==2.9.0.post0"
+        },
+        "python-discovery": {
+            "hashes": [
+                "sha256:876e9c57139eb757cb5878cbdd9ae5379e5d96266c99ef731119e04fffe533bb",
+                "sha256:e1ae95d9af875e78f15e19aed0c6137ab1bb49c200f21f5061786490c9585c7a"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==1.2.2"
         },
         "pyyaml": {
             "hashes": [
@@ -529,6 +569,14 @@
             "markers": "python_version >= '3.9'",
             "version": "==0.2.12"
         },
+        "setuptools": {
+            "hashes": [
+                "sha256:7d872682c5d01cfde07da7bccc7b65469d3dca203318515ada1de5eda35efbf9",
+                "sha256:a59e362652f08dcd477c78bb6e7bd9d80a7995bc73ce773050228a348ce2e5bb"
+            ],
+            "markers": "python_version >= '3.9'",
+            "version": "==82.0.1"
+        },
         "six": {
             "hashes": [
                 "sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274",
@@ -622,6 +670,14 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==2.6.3"
+        },
+        "virtualenv": {
+            "hashes": [
+                "sha256:4d28ee41f6d9ec8f1f00cd472b9ffbcedda1b3d3b9a575b5c94a2d004fd51bd7",
+                "sha256:733750db978ec95c2d8eb4feadaa57091002bce404cb39ba69899cf7bd28944e"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==21.3.0"
         }
     },
     "develop": {
