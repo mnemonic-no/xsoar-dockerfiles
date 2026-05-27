@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bf3d900b18acf6beea310a5bd3c20a396c8059d83f9cdaee399dffb2f11b57a8"
+            "sha256": "fc90523168ee5a172618b8ac96cf20ddefdb6f3dc2008bbef81829648087eee3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -470,20 +470,20 @@
         },
         "idna": {
             "hashes": [
-                "sha256:048adeaf8c2d788c40fee287673ccaa74c24ffd8dcf09ffa555a2fbb59f10ac8",
-                "sha256:ca962446ea538f7092a95e057da437618e886f4d349216d2b1e294abfdb65fdc"
+                "sha256:cc246e3a3f89580c3a951b5ad298ca4638078b2cdd4f115654332b5c26daded5",
+                "sha256:d7a6da03db833450fca25d2358ac9ff06cd624577a4aea3a596d5c0f77b8e03d"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==3.15"
+            "markers": "python_version >= '3.9'",
+            "version": "==3.16"
         },
         "kubernetes": {
             "hashes": [
-                "sha256:027b606bb8032e6c6464a53236bdd9bd9a94c237e1063bc45a303c25b304ced9",
-                "sha256:a766433357ec9f90db7565cccf52e28e7fca40b0ef366c80a6022adbc0ac0425"
+                "sha256:3eadd6ae1be3b742ae63bd382b139c9fd5171afb6e00771dcefaae2d49001992",
+                "sha256:7631d11dd761f18658064a6ee91a36923cec3bef3cd92b99e08a53745b95f7d0"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==36.0.0"
+            "version": "==36.0.1"
         },
         "multidict": {
             "hashes": [
