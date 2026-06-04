@@ -325,11 +325,11 @@
         },
         "google-cloud-core": {
             "hashes": [
-                "sha256:3dc94bdec9d05a31d9f355045ed0f369fbc0d8c665076c734f065d729800f811",
-                "sha256:ea62cdf502c20e3e14be8a32c05ed02113d7bef454e40ff3fab6fe1ec9f1f4e7"
+                "sha256:6d63ac8e5eca6d9e4319d0a1e2265fadcd7f1049904378caecfa01cf52dd869e",
+                "sha256:e76149739f90fac1fc6757c09f47eaccb3145b54adbd7759b0f7c4b235f46c83"
             ],
-            "markers": "python_version >= '3.9'",
-            "version": "==2.5.1"
+            "markers": "python_version >= '3.10'",
+            "version": "==2.6.0"
         },
         "google-cloud-pubsub": {
             "hashes": [
@@ -342,12 +342,12 @@
         },
         "google-cloud-storage": {
             "hashes": [
-                "sha256:97db9aa4460727982040edd2bd13ff3d5e2260b5331ad22895802da1fc2a5286",
-                "sha256:a72f656759b7b99bda700f901adcb3425a828d4a29f911bc26b3ea79c5b1217f"
+                "sha256:498bf37c999028f69a245f586b5e50d89f59df1fafc0e3a93783ac56be2a456b",
+                "sha256:cfcc33aa6b899ec9dd1771286f8e79fbed5c35c1c174718071b079aa827f37c2"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==3.10.1"
+            "version": "==3.11.0"
         },
         "google-crc32c": {
             "hashes": [
@@ -390,11 +390,11 @@
         },
         "google-resumable-media": {
             "hashes": [
-                "sha256:82b6d8ccd11765268cdd2a2123f417ec806b8eef3000a9a38dfe3033da5fb220",
-                "sha256:f3354a182ebd193ae3f42e3ef95e6c9b10f128320de23ac7637236713b1acd70"
+                "sha256:88152884bee37b2bf36a0ab81ad8c7fd12212c9803dd981d77c1b35b02d34e7c",
+                "sha256:e324bc9d0fdae4c52a08ae90456edc4e71ece858399e1217ac0eb3a51d6bc6ee"
             ],
-            "markers": "python_version >= '3.9'",
-            "version": "==2.8.2"
+            "markers": "python_version >= '3.10'",
+            "version": "==2.10.0"
         },
         "googleapis-common-protos": {
             "extras": [
