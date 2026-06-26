@@ -26,11 +26,11 @@
         },
         "anyio": {
             "hashes": [
-                "sha256:b47c1f9ccf73e67021df785332508f99379c68fa7d0684e8e3492cb1d4b23f89",
-                "sha256:dd9b7a2a9799ed6552fde617b2c5df02b7fdd7d88392fc48101e51bae46164d9"
+                "sha256:4e5533c5b8ff0a24f5d7a176cbe6877129cd183893f66b537f8f227d10527d72",
+                "sha256:8d648a3544c1a700e3ff78615cd679e4c5c3f149904287e73687b2596963629e"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==4.14.0"
+            "version": "==4.14.1"
         },
         "attrs": {
             "hashes": [
@@ -275,19 +275,19 @@
         },
         "click": {
             "hashes": [
-                "sha256:482be17c6991b8c19c5429a1e995d9b0efdbb63172824c41f99965dc0ade8ec2",
-                "sha256:918b5633eddf6b41c32d4f454bf0de810065c74e3f7dbf8ee5452f8be88d3e96"
+                "sha256:9a6cea6e60b17ebe0a44c5cc636d94f09bd66142c1cd7d8b4cd731c4917a15f6",
+                "sha256:e6f9f66136c816745b9d65817da91d61d957fb16e02e4dcd0552553c5a197b76"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==8.4.1"
+            "version": "==8.4.2"
         },
         "crowdstrike-falconpy": {
             "hashes": [
-                "sha256:c86ac31a37175cb31dc0171feceb8cf0cb3e323ca1f84e2863938aef8153b119",
-                "sha256:e4e0ded5adb3d81c27c554e53149c1c19d420282a9d3edb9290a092b7c117d1b"
+                "sha256:a82bafd476f1f0bb312e31b4ffea32577f6c8e17fc2aba84b46c06b4f3df3ec7",
+                "sha256:dc0083c3c5b9f9d3fe7692d6d0fb9b79e05aa74ed3951717610cb17aae220614"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==1.6.2"
+            "version": "==1.6.3"
         },
         "cryptography": {
             "hashes": [
@@ -343,12 +343,12 @@
         },
         "falcon-mcp": {
             "hashes": [
-                "sha256:1e782f6dfdb58868951d724959c03a18de87cd437e27a87d5867564dd98319f6",
-                "sha256:3e5e88e30e85f1dea9d1870fcc78178b06e3708f25781dd137162ae934568c26"
+                "sha256:3e7e7428972a8bec19b6caa9a453836bc6355f5440e00772ea9a923ed4f9433b",
+                "sha256:d453777da073a45662ba7cb52689a14f7164daece45743083c4873833c1ed1ac"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.11'",
-            "version": "==0.12.0"
+            "version": "==0.13.0"
         },
         "h11": {
             "hashes": [
@@ -559,11 +559,11 @@
         },
         "pydantic-settings": {
             "hashes": [
-                "sha256:6e3c7edfd8277687cdc598f56e5cff0e9bfff0910a3749deaa8d4401c3a2b9de",
-                "sha256:e874d3bec7e787b0c9958277956ed9b4dd5de6a80e162188fdaff7c5e26fd5fa"
+                "sha256:a20c97b37910b6550d5ea50fbcc2d4187defe58cd57070b73863d069419c9440",
+                "sha256:c19dd64b19097f1de80184f0cc7b0272a13ae6e170cbf240a3e27e381ed14a5f"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==2.14.1"
+            "version": "==2.14.2"
         },
         "pyjwt": {
             "extras": [
@@ -754,11 +754,11 @@
         },
         "sse-starlette": {
             "hashes": [
-                "sha256:07e0fa0460138baf25cdd5fb28683472c3995dc1642225191b3832d62526bcb0",
-                "sha256:3f4dd50d8aed2771a091f3a83000323fc3844541c16b4fe585ae2420cc6df973"
+                "sha256:83072538bc211a2f68b7b0422226c4af3e9b62e106e07034664b832ca019842a",
+                "sha256:e71bad53323f65573c3864a6c3bd0c1eb6e5f092b2e48082b0c35927d19ca296"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==3.4.4"
+            "version": "==3.4.5"
         },
         "starlette": {
             "hashes": [
