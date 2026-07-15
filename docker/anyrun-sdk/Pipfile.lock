@@ -175,12 +175,12 @@
         },
         "anyrun-sdk": {
             "hashes": [
-                "sha256:d16c0129ffc42a43727f20341b3b64a8ee6ecc015909965a011cd60c0e63a182",
-                "sha256:ef21d79676873dcae379fd251a9f062b06ad3721efb09890f3e78ded533e4b12"
+                "sha256:15699a84d40a26df5f8b2f56c0eb1c2734966b73a9970c1adc318f6f6bf01921",
+                "sha256:71fe7d6f4914ece804466a9dad9c7afa575fd06ab22165f20d52819fef85b454"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.9'",
-            "version": "==1.14.15"
+            "version": "==1.14.16"
         },
         "attrs": {
             "hashes": [
