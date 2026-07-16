@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c3c3cb91d579b553051dc951e0f0b9cf89a9222a4c361b82dddc928f1654abe2"
+            "sha256": "d25c904f4926787dc657f1a18b17770c466f404f655939b0d004f9eff8216ef7"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -49,19 +49,19 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:66c0d943b049a46a492ec4ec2ebe73c930b1842c7137bee83aad6d93e95d4d96",
-                "sha256:69453e2c1bcb9fd9806527ab99950cacfc2826cb0dce9a3a0414d19270c06c3c"
+                "sha256:2b31ab1a0eb1cee01d0363b8ee5e68b45dff2c8f99e7b53aca11c9f7b591a794",
+                "sha256:e58e0704805f720b94e40a56588eadd6da05d3693bde78b573116b11ae56710f"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==1.43.46"
+            "version": "==1.43.49"
         },
         "botocore": {
             "hashes": [
-                "sha256:59f2e1ac3cdc66d191cae91c0804bc41847ce817dc8147cf43eaada8f76a5533",
-                "sha256:cb673891e623ae6e6a1bf24d94ef169504f3eb02584adb5d5bee2f6aae819b60"
+                "sha256:16b6838ac2fbbab85fb265c1f2e37906527aca07f461b1d293d3f8ab82f992dc",
+                "sha256:7de02863c95b8008b1400c92a1a00996f25ad38944c07f7b620949f8798d1fdf"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==1.43.46"
+            "version": "==1.43.49"
         },
         "cachetools": {
             "hashes": [
@@ -359,11 +359,11 @@
         },
         "fastapi": {
             "hashes": [
-                "sha256:99ab7b2d92223c76d6cf10757ab3f89d45b38267fc20b2a136cf02f6beac3145",
-                "sha256:cf15e1e9e667ddb0ad63811e60bd11390d1aac838ca4a7a23f421807b2308189"
+                "sha256:17faa81907751a8a85cd44c46f37fb576bde0078cb37de40bf1cd55de7104d87",
+                "sha256:99461bde7ac3fc34c78443da1f4dad3ca8f3182580029a2827692db216a8d7ae"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==0.139.0"
+            "version": "==0.139.1"
         },
         "filigran-sseclient": {
             "hashes": [
@@ -519,12 +519,12 @@
         },
         "pycti": {
             "hashes": [
-                "sha256:3a23ae8ffe7e1550def2458065a88788249618724aee2a2e38f6ed7ec0e8fef2",
-                "sha256:87ec57ab7290c2f413fe5a363f507d97c6e8093ff5f29b8fd4d1130b99357660"
+                "sha256:0f2260bb858518d460194eee3d1c4f1ee18874abe1887452a8b4bbf3203d676f",
+                "sha256:9fa832cfe2a4072cd7a3e2bf40e00c796a4969c3a178de1e54ea68e1871af689"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==7.260710.0"
+            "version": "==7.260715.0"
         },
         "pydantic": {
             "hashes": [
