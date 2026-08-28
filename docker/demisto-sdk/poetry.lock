@@ -718,14 +718,14 @@ urllib3 = ">2.6.0"
 
 [[package]]
 name = "demisto-sdk"
-version = "1.39.7"
+version = "1.39.8"
 description = "\"A Python library for the Demisto SDK\""
 optional = false
 python-versions = "<3.15,>=3.10"
 groups = ["main"]
 files = [
-    {file = "demisto_sdk-1.39.7-py3-none-any.whl", hash = "sha256:a414cbfbb6bb89d78ff56832273d483d7da6508e802e66637593ada0ec037423"},
-    {file = "demisto_sdk-1.39.7.tar.gz", hash = "sha256:acec99ec555fb592a2118b7e943336b103957950d7e2784767b13566fd912c27"},
+    {file = "demisto_sdk-1.39.8-py3-none-any.whl", hash = "sha256:855965495058c749b5040485553eb5ca250397eac3a23f52e4d13ec4d4c62785"},
+    {file = "demisto_sdk-1.39.8.tar.gz", hash = "sha256:38139cad23cced00d7a917648618c18ae808aa9b90976d6d1e4937d7313c8368"},
 ]
 
 [package.dependencies]
