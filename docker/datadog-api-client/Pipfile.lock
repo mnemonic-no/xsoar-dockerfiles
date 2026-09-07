@@ -26,12 +26,12 @@
         },
         "datadog-api-client": {
             "hashes": [
-                "sha256:2a2f8f4fe33e49c407aa0105b5046818aba592bb16bf86c907ee77c9fd6cdf53",
-                "sha256:d50a2531ac7417004d4006bfd842b2d14432795f5c2b6b063dce8fd05e497069"
+                "sha256:248320483f161085b420d7097a37af6e2cfa0d92930b5d207368e331a6e20d0b",
+                "sha256:f3e56ada2e08499eac4ccbbbc9aaf312d50e338ff869717d4306ce79c8ceb3df"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
-            "version": "==2.58.0"
+            "markers": "python_version >= '3.10'",
+            "version": "==2.60.0"
         },
         "python-dateutil": {
             "hashes": [
