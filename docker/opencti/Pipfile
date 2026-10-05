@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pycti = "==7.260928.1"
+pycti = "==7.261002.0"
 
 [dev-packages]
 
