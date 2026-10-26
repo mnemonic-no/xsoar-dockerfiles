@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6bf507b7bfc203f6825aab96ca09d5f7ab2be355d3b84a530d3831f0906b301d"
+            "sha256": "2d42b50b467c0baea389247e75ed916e36dc1376bdd667215bcadc32ee33fb6f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -73,11 +73,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:035c1e85572b141bf1c3a3eff0e33a8eb74917522f2559075ff8d2fea780a1ae",
-                "sha256:42d35340cc5b9ba78e818ddbff0c5b1c2b779de448a340fd1b989f5fa8670e1b"
+                "sha256:a9895e6e2758b371e0545e321a3a8fd1fcfd9829ada8824a936dfb16aaaf36cd",
+                "sha256:e9b54de76e530bb6cf0ccd036787103acb58fd42ba930ea8bf948ddbaa2f61d1"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2026.10.19"
+            "version": "==2026.10.23"
         },
         "cffi": {
             "hashes": [
@@ -679,12 +679,12 @@
         },
         "pycti": {
             "hashes": [
-                "sha256:6fca30c4089abdc61bc9702bd9dbc9228be4bc6943c58ec276c5d542b7101def",
-                "sha256:d3e51361525a2cee2b855de6bd091c5b41b83ccb2699917ba9e7e3d1e5378061"
+                "sha256:2b716129a4702628c8ca2cc5379793d4569aa9728826aba8aea05b38b09078c6",
+                "sha256:4b20caedc107d54f28f4a5c058b6b5a3a61a0b80efd1354c9e9bc4c6bb5ca968"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==7.261019.0"
+            "version": "==7.261021.1"
         },
         "pydantic": {
             "hashes": [
@@ -1270,11 +1270,11 @@
         },
         "starlette": {
             "hashes": [
-                "sha256:3d931de246ed870e35ce605974440816ef895e592f255d1396cfdf191d4c4318",
-                "sha256:fd3f159936e882d06c1108f84688f7cda2cf85fc6a592a50edbd175e882c2ddc"
+                "sha256:478c0ab3b4ced6e82719849c118fa406f0278a3499c1a898cd15cd31bdc38ce4",
+                "sha256:b8399098d4c1e3522734f7235dc79b1fc967f96cf139c81e0fa30479e0685f9b"
             ],
             "markers": "python_version >= '3.11'",
-            "version": "==1.9.0"
+            "version": "==1.10.0"
         },
         "stix2": {
             "hashes": [
