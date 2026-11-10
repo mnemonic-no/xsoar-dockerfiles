@@ -25,11 +25,11 @@
         },
         "cachetools": {
             "hashes": [
-                "sha256:9033308cc26b678784a27b096aab1541b9e698d785c3e9918b691ccd458d88df",
-                "sha256:a2223b80de434291ddf4c105354e533bbaf4d29382f5d1bc3e4b9332cb31061e"
+                "sha256:2105787c94619bde7072624fec0fe7b8a08bb7bf6c757c318f8925573c6f07c9",
+                "sha256:3f63fc208410f0c3a3b37883c4903ecdacd6f0b259134e6d2e82debd5b2e01de"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==7.2.5"
+            "version": "==7.3.0"
         },
         "certifi": {
             "hashes": [
@@ -502,12 +502,12 @@
         },
         "resilient": {
             "hashes": [
-                "sha256:6ccdc72f5093c0a5468097b96b6b862df40114846accd931131197373ed652ff",
-                "sha256:6e7b2bed26dfd747bf8bdf50047a6ef5ed933b8ff6ecf21d1434f61fb1fc68d6"
+                "sha256:b456664665d063224c40cba1373234ed4480e50fdcd71a33f8013aa31033752a",
+                "sha256:bebdb9c7c8d15424d24e241e5b59e8fa5f74c3b17d920472f317f75709b42a26"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.11'",
-            "version": "==51.0.9.1"
+            "version": "==51.0.9.2"
         },
         "resilient-app-config-plugins": {
             "hashes": [
